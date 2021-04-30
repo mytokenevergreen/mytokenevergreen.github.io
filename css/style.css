@@ -538,6 +538,17 @@ h6 {
     color: #fff;
     font-size: 16px;
 }
+.section-header-center .text-row-left{
+    line-height: 1.2;
+    text-align: left;
+    color: #fff;
+    font-size: 16px;
+    width: 100%;
+}
+.section-header-center .text-row-left span{
+    color: #009b4c;
+    font-weight: 600;
+}
 
 .section-header-right{
     padding-top: 40px;
@@ -1095,7 +1106,7 @@ h6 {
 }
 
 #footer .footer-top .footer-info h3 {
-  font-size: 34px;
+  font-size: 24px;
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
@@ -1107,7 +1118,7 @@ h6 {
 }
 
 #footer .footer-top .footer-info p {
-  font-size: 13px;
+  font-size: 16px;
   line-height: 24px;
   margin-bottom: 0;
   font-family: "Montserrat", sans-serif;
@@ -1146,6 +1157,18 @@ h6 {
 
 #footer .footer-top .footer-links {
   margin-bottom: 30px;
+}
+
+#footer .footer-top .footer-links h3 {
+  font-size: 24px;
+  margin: 0 0 20px 0;
+  padding: 2px 0 2px 0;
+  line-height: 1;
+  font-family: "Montserrat", sans-serif;
+  color: #fff;
+  font-weight: 400;
+  letter-spacing: 3px;
+  text-transform: uppercase;
 }
 
 #footer .footer-top .footer-links ul {
